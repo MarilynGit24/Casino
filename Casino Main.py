@@ -23,6 +23,11 @@ while True:     #zorgen dat de invoer klopt (while)
 
 birthday = input("Wat je geboortedatum? (dd-mm-yyyy) ").strip()
 
+###Hier de birthday check invoeren###
+
+
+
+
 if infix:
     full_name = f"{first_name} {infix} {last_name}"
 else:
